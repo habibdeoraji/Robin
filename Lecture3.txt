@@ -2,3 +2,4 @@ This is the third lecture practice
 
 1. Sign up on GITHUB
 2. Set the remote config
+3. Then save all the codes and command as a assignment
