@@ -1,0 +1,4 @@
+This is the third lecture practice
+
+1. Sign up on GITHUB
+2. Set the remote config
